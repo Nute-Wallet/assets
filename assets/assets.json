@@ -1,0 +1,72 @@
+[
+    {
+        "chainId": "0x38",
+        "balance": "0",
+        "tokens": [],
+        "nfts": [],
+        "nativeCurrency": {
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000",
+            "slug": "bsc"
+        },
+        "show": true
+    },
+    {
+        "chainId": "0x1",
+        "balance": "0",
+        "tokens": [],
+        "nfts": [],
+        "nativeCurrency": {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000",
+            "slug": "ethereum"
+        },
+        "show": true
+    },
+    {
+        "chainId": "0x89",
+        "balance": "0",
+        "tokens": [],
+        "nfts": [],
+        "nativeCurrency": {
+            "name": "Matic",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000",
+            "slug": "polygon"
+        },
+        "show": true
+    },
+    {
+        "chainId": "0x61",
+        "balance": "0",
+        "tokens": [],
+        "nfts": [],
+        "nativeCurrency": {
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "decimals": 18,
+            "balance": "0",
+            "address": "0x0000000000000000000000000000000000000000",
+            "slug": "bsc_testnet"
+        },
+        "show": true
+    },
+    {
+        "balance": 0,
+        "chainId": "0x61",
+        "decimals": 18,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "name": "Dogocoin Token",
+        "possible_spam": false,
+        "show": true,
+        "symbol": "DOGE",
+        "thumbnail": null,
+        "token_address": "0x8b7453cfbee659f819d2e3cecb4f7099d21293cb"
+    }
+]
