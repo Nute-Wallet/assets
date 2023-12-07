@@ -16,7 +16,7 @@
   },
   {
     "balance": 0,
-    "chainId": "0x38",
+    "chainId": "0x61",
     "decimals": 18,
     "slug": "bsc_testnet",
     "name": "INRx",
@@ -25,6 +25,19 @@
     "possible_spam": false,
     "thumbnail": null,
     "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc_testnet/0xcD6970d5211EfDF2516A4fc73163db7bA812B212/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x38",
+    "decimals": 18,
+    "slug": "bsc",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "token_address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "possible_spam": false,
+    "thumbnail": null,
+    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc_testnet/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
 
