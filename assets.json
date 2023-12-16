@@ -66,6 +66,19 @@
     "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc/assets/0xcD6970d5211EfDF2516A4fc73163db7bA812B212/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
+  {
+    "balance": 0,
+    "chainId": "0x38",
+    "decimals": 18,
+    "slug": "bsc",
+    "name": "Binance-Peg Dogecoin Token",
+    "symbol": "DOGE",
+    "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "possible_spam": false,
+    "thumbnail": null,
+    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc/assets/0xbA2aE424d960c26247Dd6c32edC70B295c744C43/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+  },
 
   {
     "asset": "c966_t0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
